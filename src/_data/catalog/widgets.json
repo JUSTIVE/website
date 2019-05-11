@@ -2,7 +2,7 @@
   {
     "name": "Container",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [
       "단일 자식을 가지는 레이아웃 위젯"
@@ -15,7 +15,7 @@
     "name": "Row",
     "description": "자식 위젯들을 수평 방향으로 배치합니다.",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [
       "여러 자식을 가지는 레이아웃 위젯"
@@ -27,7 +27,7 @@
     "name": "Column",
     "description": "자식 위젯들을 수직 방향으로 배치합니다.",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [
       "여러 자식을 가지는 레이아웃 위젯"
@@ -39,7 +39,7 @@
     "name": "Image",
     "description": "이미지를 표시하는 위젯입니다.",
     "categories": [
-      "Basics",
+      "기본 위젯",
       "Assets, Images, and Icons"
     ],
     "subcategories": [
@@ -52,7 +52,7 @@
     "name": "Text",
     "description": "단일 스타일의 텍스트",
     "categories": [
-      "Basics",
+      "기본 위젯",
       "Text"
     ],
     "subcategories": [],
@@ -63,7 +63,7 @@
     "name": "Icon",
     "description": "머티리얼 디자인의 아이콘입니다.",
     "categories": [
-      "Basics",
+      "기본 위젯",
       "Assets, Images, and Icons"
     ],
     "subcategories": [
@@ -76,10 +76,10 @@
     "name": "RaisedButton",
     "description": "A Material Design raised button. A raised button consists of a rectangular piece of material that hovers over the interface.",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [
-      "Buttons"
+      "버튼"
     ],
     "link": "https://docs.flutter.io/flutter/material/RaisedButton-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VbDh6YmNiYVc3SHM/components_buttons_usage2.png'>"
@@ -89,7 +89,7 @@
     "sample": "Scaffold",
     "description": "Implements the basic Material Design visual layout structure. This class provides APIs for showing drawers, snack bars, and bottom sheets.",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [
       "App structure and navigation"
@@ -102,7 +102,7 @@
     "sample": "AppBar",
     "description": "A Material Design app bar. An app bar consists of a toolbar and potentially other widgets, such as a TabBar and a FlexibleSpaceBar.",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [
       "App structure and navigation"
@@ -114,7 +114,7 @@
     "name": "FlutterLogo",
     "description": "The Flutter logo, in widget form. This widget respects the IconTheme.",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/material/FlutterLogo-class.html",
@@ -136,7 +136,7 @@
     "name": "Placeholder",
     "description": "A widget that draws a box that represents where other widgets will one day be added.",
     "categories": [
-      "Basics"
+      "기본 위젯"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/widgets/Placeholder-class.html",
@@ -209,7 +209,7 @@
     "description": "A floating action button is a circular icon button that hovers over content to promote a primary action in the application. Floating action buttons are most commonly used in the Scaffold.floatingActionButton field.",
     "categories": [],
     "subcategories": [
-      "Buttons"
+      "버튼"
     ],
     "link": "https://docs.flutter.io/flutter/material/FloatingActionButton-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VN20tOXJoUjVxQjg/components_buttons_fab.png'>"
@@ -219,7 +219,7 @@
     "description": "A flat button is a section printed on a Material Components widget that reacts to touches by filling with color.",
     "categories": [],
     "subcategories": [
-      "Buttons"
+      "버튼"
     ],
     "link": "https://docs.flutter.io/flutter/material/FlatButton-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VNDg3V3ZjU2hsNGc/components_buttons_usage3.png'>"
@@ -230,7 +230,7 @@
     "description": "An icon button is a picture printed on a Material widget that reacts to touches by filling with color (ink).",
     "categories": [],
     "subcategories": [
-      "Buttons"
+      "버튼"
     ],
     "link": "https://docs.flutter.io/flutter/material/IconButton-class.html",
     "image": "<img alt='' src='https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B_udO5B8pzrzdXVuTlBoOTBjcU0/components_buttons_other1.png'>"
@@ -240,7 +240,7 @@
     "description": "Shows the currently selected item and an arrow that opens a menu for selecting another item.",
     "categories": [],
     "subcategories": [
-      "Buttons"
+      "버튼"
     ],
     "link": "https://docs.flutter.io/flutter/material/DropdownButton-class.html",
     "image": "<img alt='' src='/images/catalog-widget-placeholder.png'>"
@@ -251,7 +251,7 @@
     "description": "Displays a menu when pressed and calls onSelected when the menu is dismissed because an item was selected.",
     "categories": [],
     "subcategories": [
-      "Buttons"
+      "버튼"
     ],
     "link": "https://docs.flutter.io/flutter/material/PopupMenuButton-class.html",
     "image": "<img alt='' src='https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B7WCemMG6e0VakJ6a0F2MFJaaDQ/components_menus.png'>"
@@ -261,7 +261,7 @@
     "description": "A horizontal arrangement of buttons.",
     "categories": [],
     "subcategories": [
-      "Buttons"
+      "버튼"
     ],
     "link": "https://docs.flutter.io/flutter/material/ButtonBar-class.html",
     "image": "<img alt='' src='/images/catalog-widget-placeholder.png'>"
@@ -271,7 +271,7 @@
     "description": "Touching a text field places the cursor and displays the keyboard. The TextField widget implements this component.",
     "categories": [],
     "subcategories": [
-      "Input and selections"
+      "입력과 선택"
     ],
     "link": "https://docs.flutter.io/flutter/material/TextField-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VbURLNTM0N0R6eUE/components_text_fields.png'>"
@@ -281,7 +281,7 @@
     "description": "Checkboxes allow the user to select multiple options from a set. The Checkbox widget implements this component.",
     "categories": [],
     "subcategories": [
-      "Input and selections"
+      "입력과 선택"
     ],
     "link": "https://docs.flutter.io/flutter/material/Checkbox-class.html",
     "image": "<img alt='' src='https://storage.googleapis.com/material-design/publish/material_v_9/0Bx4BSt6jniD7T2xGbGo0cUlPVG8/components_switches_check1.png'>"
@@ -291,7 +291,7 @@
     "description": "Radio buttons allow the user to select one option from a set. Use radio buttons for exclusive selection if you think that the user needs to see all available options side-by-side. ",
     "categories": [],
     "subcategories": [
-      "Input and selections"
+      "입력과 선택"
     ],
     "link": "https://docs.flutter.io/flutter/material/Radio-class.html",
     "image": "<img alt='' src='https://storage.googleapis.com/material-design/publish/material_v_9/0Bx4BSt6jniD7Z1NaaXh2ZkpDRkE/components_switches_radio1.png'>"
@@ -301,7 +301,7 @@
     "description": "On/off switches toggle the state of a single settings option. The Switch widget implements this component.",
     "categories": [],
     "subcategories": [
-      "Input and selections"
+      "입력과 선택"
     ],
     "link": "https://docs.flutter.io/flutter/material/Switch-class.html",
     "image": "<img alt='' src='https://storage.googleapis.com/material-design/publish/material_v_9/0Bx4BSt6jniD7NDg4aGIzVXYxVEE/components_switches_switch1.png'>"
@@ -311,7 +311,7 @@
     "description": "Sliders let users select from a range of values by moving the slider thumb. ",
     "categories": [],
     "subcategories": [
-      "Input and selections"
+      "입력과 선택"
     ],
     "link": "https://docs.flutter.io/flutter/material/Slider-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VTmJrQUYzajFIclE/components_sliders.png'>"
@@ -321,7 +321,7 @@
     "description": "Date pickers use a dialog window to select a single date on mobile. Time pickers use a dialog to select a single time (in the hours:minutes format) on mobile.",
     "categories": [],
     "subcategories": [
-      "Input and selections"
+      "입력과 선택"
     ],
     "link": "https://docs.flutter.io/flutter/material/showDatePicker.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VY2h4WElGdEhPb2c/components_pickers.png'>"
@@ -441,7 +441,7 @@
     "description": "A single fixed-height row that typically contains some text as well as a leading or trailing icon.",
     "categories": [],
     "subcategories": [
-      "Layout"
+      "레이아웃"
     ],
     "link": "https://docs.flutter.io/flutter/material/ListTile-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0Bx4BSt6jniD7UUw0bzVwU2lMUHc/components_lists_keylines_single10.png'>"
@@ -451,7 +451,7 @@
     "description": "A Material Design stepper widget that displays progress through a sequence of steps.",
     "categories": [],
     "subcategories": [
-      "Layout"
+      "레이아웃"
     ],
     "link": "https://docs.flutter.io/flutter/material/Stepper-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VTndyUnNCR2tQREE/components_steppers.png'>"
@@ -461,7 +461,7 @@
     "description": "A one logical pixel thick horizontal line, with padding on either side.",
     "categories": [],
     "subcategories": [
-      "Layout"
+      "레이아웃"
     ],
     "link": "https://docs.flutter.io/flutter/material/Divider-class.html",
     "image": "<img alt='' src='https://material-design.storage.googleapis.com/publish/material_v_9/0B7WCemMG6e0VUVlmbHM1Q013RU0/components_dividers.png'>"
