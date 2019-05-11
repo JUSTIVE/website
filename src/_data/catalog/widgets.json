@@ -470,7 +470,7 @@
     "name": "CupertinoActionSheet",
     "description": "An iOS-style modal bottom action sheet to choose an option among many.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoActionSheet-class.html",
@@ -480,7 +480,7 @@
     "name": "CupertinoActivityIndicator",
     "description": "An iOS-style activity indicator. Displays a circular 'spinner'.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoActivityIndicator-class.html",
@@ -490,7 +490,7 @@
     "name": "CupertinoAlertDialog",
     "description": "An iOS-style alert dialog.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoAlertDialog-class.html",
@@ -500,7 +500,7 @@
     "name": "CupertinoButton",
     "description": "An iOS-style button.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoButton-class.html",
@@ -510,7 +510,7 @@
     "name": "CupertinoDatePicker",
     "description": "An iOS-style date or date and time picker.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoDatePicker-class.html",
@@ -520,7 +520,7 @@
     "name": "CupertinoDialog",
     "description": "An iOS-style dialog.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoDialog-class.html",
@@ -530,7 +530,7 @@
     "name": "CupertinoDialogAction",
     "description": "A button typically used in a CupertinoAlertDialog.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoDialogAction-class.html",
@@ -540,7 +540,7 @@
     "name": "CupertinoFullscreenDialogTransition",
     "description": "An iOS-style transition used for summoning fullscreen dialogs.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoFullscreenDialogTransition-class.html",
@@ -550,7 +550,7 @@
     "name": "CupertinoPageScaffold",
     "description": "Basic iOS style page layout structure. Positions a navigation bar and content on a background.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoPageScaffold-class.html",
@@ -560,7 +560,7 @@
     "name": "CupertinoPageTransition",
     "description": "Provides an iOS-style page transition animation.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoPageTransition-class.html",
@@ -570,7 +570,7 @@
     "name": "CupertinoPicker",
     "description": "An iOS-style picker control. Used to select an item in a short list.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoPicker-class.html",
@@ -580,7 +580,7 @@
     "name": "CupertinoPopupSurface",
     "description": "Rounded rectangle surface that looks like an iOS popup surface, such as an alert dialog or action sheet.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoPopupSurface-class.html",
@@ -590,7 +590,7 @@
     "name": "CupertinoScrollbar",
     "description": "An iOS-style scrollbar that indicates which portion of a scrollable widget is currently visible.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoScrollbar-class.html",
@@ -600,7 +600,7 @@
     "name": "CupertinoSegmentedControl",
     "description": "An iOS-style segmented control. Used to select mutually exclusive options in a horizontal list.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoSegmentedControl-class.html",
@@ -610,7 +610,7 @@
     "name": "CupertinoSlider",
     "description": "Used to select from a range of values.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://docs.flutter.io/flutter/cupertino/CupertinoSlider-class.html",
@@ -620,7 +620,7 @@
     "name": "CupertinoSwitch",
     "description": "An iOS-style switch. Used to toggle the on/off state of a single setting.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoSwitch-class.html",
@@ -630,7 +630,7 @@
     "name": "CupertinoNavigationBar",
     "description": "An iOS-style top navigation bar. Typically used with CupertinoPageScaffold.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoNavigationBar-class.html",
@@ -640,7 +640,7 @@
     "name": "CupertinoTabBar",
     "description": "An iOS-style bottom tab bar. Typically used with CupertinoTabScaffold.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoTabBar-class.html",
@@ -650,7 +650,7 @@
     "name": "CupertinoTabScaffold",
     "description": "Tabbed iOS app structure. Positions a tab bar on top of tabs of content.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoTabScaffold-class.html",
@@ -660,7 +660,7 @@
     "name": "CupertinoTabView",
     "description": "Root content of a tab that supports parallel navigation between tabs. Typically used with CupertinoTabScaffold.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoTabView-class.html",
@@ -670,7 +670,7 @@
     "name": "CupertinoTextField",
     "description": "An iOS-style text field.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoTextField-class.html",
@@ -680,7 +680,7 @@
     "name": "CupertinoTimerPicker",
     "description": "An iOS-style countdown timer picker.",
     "categories": [
-      "Cupertino (iOS-style widgets)"
+      "Cupertino (iOS 스타일 위젯)"
     ],
     "subcategories": [],
     "link": "https://api.flutter.dev/flutter/cupertino/CupertinoTimerPicker-class.html",
